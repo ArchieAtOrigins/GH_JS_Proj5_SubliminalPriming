@@ -1,0 +1,35 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+header, footer {
+	background: #5977a8;
+	margin: 0;
+	min-height: 50px;
+	padding: 0;
+}
+#main {
+	margin: 15px;
+	padding: 15px;
+}
+h1 {
+	color: white;
+	margin: 0;
+	padding: 10px;
+	text-align: center;
+}
+.messageBg {
+	background: #7f9ac6;
+	border-radius: 4px;
+	border: 1px solid black;
+	margin: 40px auto;
+	min-height: 400px;
+	width: 80%;
+}
+#message {
+	color: white;
+	font-size: 3em;
+	margin: 0;
+	padding: 35px;
+	text-align: center;
+}
