@@ -4,6 +4,7 @@ body {
 }
 header, footer {
 	background: #5977a8;
+	font-family:'Roboto', sans-serif;
 	margin: 0;
 	min-height: 50px;
 	padding: 0;
@@ -13,9 +14,8 @@ header, footer {
 	padding: 15px;
 }
 button {
-	background: #e0b05e;
+	background: white;
 	border-radius: 3px;
-	float: left;
 	font-size: .5em;
 	margin: 10px;
 	padding: 5px;
@@ -26,18 +26,26 @@ h1 {
 	padding: 10px;
 	text-align: center;
 }
+p {
+	font-family: 'Rubik', 'Open Sans', sans-serif;
+	font-weight: light;
+	margin: 0 auto;
+	margin-bottom: 30px;
+	width: 80%;
+}
 .messageBg {
-	background: #7f9ac6;
+	background: #000;
 	border-radius: 4px;
 	border: 1px solid black;
-	margin: 40px auto;
-	min-height: 400px;
+	margin: 0 auto;
 	width: 80%;
 }
 #message {
 	color: white;
-	font-size: 3em;
-	margin: 0;
-	padding: 35px;
+	font-size: 10em;
+	font-family: 'Rubik', 'Open Sans', sans-serif;
+	font-weight: lighter;  
+	margin: 0 auto;
+	padding: 0;
 	text-align: center;
 }
