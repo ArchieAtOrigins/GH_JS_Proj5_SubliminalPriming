@@ -14,7 +14,8 @@ function randomWord() {
 	var wordCount = wordArray.length;
 	var spWord = wordArray[Math.floor(Math.random()*wordCount)];
 	target.innerHTML=spWord;
-	return spWord;
+	running = true;
+	console.log(running);
 }
 
 function stopRoll() {
