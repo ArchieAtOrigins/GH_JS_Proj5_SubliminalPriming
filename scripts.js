@@ -1,7 +1,7 @@
 // Next stop: Get setInterval working. ref: https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval
 
 
-var wordArray = ["happy", "healthy", "tolerant", "patient", "motivated", "calm", "focused", "disciplined", "kind", "productive", "learned", "confident", "positive", "action", "virtuous", "Thrive", "content", "smile", "mindful", "grateful", "persistent", "fortitude", "resilient", "faith", "inspired", "love", "mastery", "excellence"];
+var wordArray = ["relaxed", "happy", "healthy", "tolerant", "patient", "motivated", "calm", "focused", "disciplined", "kind", "productive", "learned", "confident", "positive", "action", "virtuous", "Thrive", "content", "smile", "mindful", "grateful", "persistent", "fortitude", "resilient", "faith", "inspired", "love", "mastery", "excellence"];
 
 var int;
 
