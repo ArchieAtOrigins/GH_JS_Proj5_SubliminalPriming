@@ -1,4 +1,5 @@
 html, body {
+	background: black;
 	height: 100%;
 	margin: 0;
 	padding: 0;
@@ -28,6 +29,7 @@ h1 {
 	text-align: center;
 }
 p {
+	color: white;
 	font-family: 'Rubik', 'Open Sans', sans-serif;
 	font-weight: light;
 	margin: 0 auto;
